@@ -1,0 +1,16 @@
+# Binaries
+/quiz
+/server
+*.exe
+
+# SQLite databases (milestone 3+)
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+
+# Frontend (milestone 5+)
+node_modules/
+web/dist/
+
+.DS_Store
